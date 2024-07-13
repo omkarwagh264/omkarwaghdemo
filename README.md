@@ -1,2 +1,3 @@
-# omkarwaghdemo
-this is my first repositiory
+# omkarwagh-demo
+this is my first repository
+author =omkar wagh
